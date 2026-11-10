@@ -1,0 +1,7 @@
+{
+  "extraKnownMarketplaces": {
+    "rodokmen-skill": {
+      "source": { "source": "github", "repo": "sarsonj/rodokmen-skill" }
+    }
+  }
+}
